@@ -15,5 +15,5 @@ a remote Javascript REPL. You can try this out by running pathfinder in the
 project directory and directing your browser to the root URL.
 
 Pathfinder is of course named after the Mars Pathfinder lander, which was the
-subject of an intense "remote debugging" session to fix a priority inversion
+subject of a famous "remote debugging" session to fix a priority inversion
 in its control software.
